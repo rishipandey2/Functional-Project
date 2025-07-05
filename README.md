@@ -11,10 +11,12 @@ This repo is a growing collection of **fully working web projects** built using 
 
 | Project Name        | Live Demo                            | Description                         |
 |---------------------|--------------------------------------|-------------------------------------|
-| Project 1: Calculator | [Live Demo](https://your-link.com)  | A simple percentage calculator with clean UI |
-<!-- Add more rows as you add projects -->
+| Project 1: Calculator | [Live Demo](https://rishipandey2.github.io/Functional-Project/Percentage%20Calculator/)  | A simple percentage calculator with clean UI |
 
----
+
+
+---![Screenshot (107)](https://github.com/user-attachments/assets/30d3d0e3-1a10-42f8-8960-565aaec32d93)
+
 
 ## 🛠️ Technologies Used
 
