@@ -12,13 +12,17 @@ This repo is a growing collection of **fully working web projects** built using 
 | Project Name        | Live Demo                            | Description                         |
 |---------------------|--------------------------------------|-------------------------------------|
 | Project 1: Calculator | [Live Demo](https://rishipandey2.github.io/Functional-Project/Percentage%20Calculator/)  | A simple percentage calculator with clean UI |
+| Project 2: Survey  | [Live Demo](https://rishipandey2.github.io/Functional-Project/Percentage%20Calculator/)  | A simple support survey form with clean UI |
 
 
 
 ---![Screenshot (107)](https://github.com/user-attachments/assets/30d3d0e3-1a10-42f8-8960-565aaec32d93)
+---![Screenshot (123)](https://github.com/user-attachments/assets/993e7464-56dc-48ce-82ed-7aa9a7b5115e)
+
 
 
 ## 🛠️ Technologies Used
+
 
 - **HTML5** – Semantically structured content  
 - **CSS3** – Styling, layouts, animations  
